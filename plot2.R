@@ -24,3 +24,4 @@ plot(subdata$datetime, subdata$Global_active_power,
 
 ## Close the .PNG graphic device
 dev.off()
+
