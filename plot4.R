@@ -1,4 +1,4 @@
-## This file is for producing plot3
+## This file is for producing plot4
 
 ## Creat a new folder named data
 if(!file.exists("./data")){dir.create("./data")}
