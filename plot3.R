@@ -33,3 +33,4 @@ legend("topright",
 
 ## Close the .PNG graphic device
 dev.off()
+
